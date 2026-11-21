@@ -12,4 +12,4 @@ I love learning new data analysis techniques and turning messy data into simple,
 
 🤝 Open to collaborating & learning from experienced analysts
 
-📫 Connect with me on LinkedIn
+📫 Connect with me on [LinkedIn]https://www.linkedin.com/in/bhoomi-varshney-3115a6370/
