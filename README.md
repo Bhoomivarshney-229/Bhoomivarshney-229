@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Bhoomi Varshney 👋
 
-<!--
-**Bhoomivarshney-229/Bhoomivarshney-229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst Intern | Power BI • Excel • SQL • Python
 
-Here are some ideas to get you started:
+I love learning new data analysis techniques and turning messy data into simple, clear insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working as a Data Analyst Intern
+
+🛠️ Skills: Data Cleaning, Data Visualization, Power BI, SQL, Python, Excel
+
+💡 I love helping businesses make data-driven decisions.
+
+🤝 Open to collaborating & learning from experienced analysts
+
+📫 Connect with me on LinkedIn
